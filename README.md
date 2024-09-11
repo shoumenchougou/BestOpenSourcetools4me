@@ -14,3 +14,7 @@ ShareX is a free and open source program that lets you capture or record any are
 [LocalSend](https://github.com/localsend/localsend): share files and messages with nearby devices over your local network 
 
 LocalSend is a cross-platform app that enables secure communication between devices using a REST API and HTTPS encryption. Unlike other messaging apps that rely on external servers, LocalSend doesn't require an internet connection or third-party servers, making it a fast and reliable solution for local communication.
+
+### game tools
+
+[Seraphine](https://github.com/Zzaphkiel/Seraphine): 基于 LCU API 实现的英雄联盟战绩查询工具，让锁战绩的🤡无处遁形！
