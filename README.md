@@ -5,9 +5,11 @@
 
 ### image
 
-Best tool of screenshot: [shareX](https://github.com/ShareX/ShareX): Screen capture, file sharing and productivity tool
+- Best tool of screenshot: [shareX](https://github.com/ShareX/ShareX): Screen capture, file sharing and productivity tool
 
 ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)：ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ### share files
 
