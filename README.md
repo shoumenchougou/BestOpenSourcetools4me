@@ -20,3 +20,7 @@ LocalSend is a cross-platform app that enables secure communication between devi
 ### game tools
 
 [Seraphine](https://github.com/Zzaphkiel/Seraphine): 基于 LCU API 实现的英雄联盟战绩查询工具，让锁战绩的🤡无处遁形！
+
+### translator 
+
+[pot-desktop](https://github.com/pot-app/pot-desktop)：一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
