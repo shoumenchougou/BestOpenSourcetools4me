@@ -1,5 +1,11 @@
 # BestOpenSourcetools4me
+
 记录我最喜欢的一些开源工具。
+
+>[!NOTE]
+>只为记录，以免遗忘。
+>
+>欢迎提交issue补充
 
 ## 办公工具
 
