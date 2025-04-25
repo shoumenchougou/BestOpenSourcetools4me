@@ -40,3 +40,5 @@ LocalSend is a cross-platform app that enables secure communication between devi
 [nginx-ui](https://github.com/0xJacky/nginx-ui) ：Go+Vue.js 构建的 Nginx 在线管理平台，它开箱即用、功能丰富，支持流量统计、在线查看 Nginx 日志、编辑 Nginx 配置文件、自动检查和重载配置文件等功能。
 
 [Crawl4AI](https://github.com/unclecode/crawl4ai)：一款用 Python 开发的异步爬虫框架，能够将网站上的数据转化成 Markdown、JSON 等 LLM 友好的输出格式。它完全开源且免费，极大地简化了异步爬虫的编写。相比于付费的 Firecrawl，它具有更快的爬取速度，支持同时抓取多个 URL、页面截图、关键字优化提取（基于 LLM）和复杂的多页面会话管理等功能。
+
+[sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf)：SumatraPDF 是一款适用于 Windows 的多格式（PDF、EPUB、MOBI、CBZ、CBR、FB2、CHM、XPS、DjVu）阅读器。
